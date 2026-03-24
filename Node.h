@@ -1,11 +1,9 @@
 #ifndef QUESTNODE_H
 #define QUESTNODE_H
-
 #include <string>
 #include <functional>
 #include "ws.h"
 #include "Bhandler.h"
-
 using namespace std;
 
 class QuestNode
